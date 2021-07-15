@@ -1,0 +1,686 @@
+{
+	"label": "Ultimate Equipment",
+	"entries": [
+		{
+			"id": "+1 Ammunition Special Abilities"
+		},
+		{
+			"id": "+1 Armour Special Abilities"
+		},
+		{
+			"id": "+1 Ranged Weapon Special Abilities"
+		},
+		{
+			"id": "+1 Shield Special Abilities"
+		},
+		{
+			"id": "+1 Weapon Special Ability"
+		},
+		{
+			"id": "+2 Ammunition Special Abilities"
+		},
+		{
+			"id": "+2 Armour Special Abilities"
+		},
+		{
+			"id": "+2 Ranged Weapon Special Abilities"
+		},
+		{
+			"id": "+2 Shield Special Abilities"
+		},
+		{
+			"id": "+2 Weapon Special Abilities"
+		},
+		{
+			"id": "+2/+4 Ammunition Special Abilities"
+		},
+		{
+			"id": "+3 Armour Special Abilities"
+		},
+		{
+			"id": "+3 Shield Special Abilities"
+		},
+		{
+			"id": "+3 Weapon Special Abilities"
+		},
+		{
+			"id": "+3/+4 Ranged Weapon Special Abilities"
+		},
+		{
+			"id": "+4 Ammunition Special Abilities"
+		},
+		{
+			"id": "+4 Armour Special Abilities"
+		},
+		{
+			"id": "+4 Shield Special Abilities"
+		},
+		{
+			"id": "+4/+5 Weapon Special Abilities"
+		},
+		{
+			"id": "+5 Armour Special Abilities"
+		},
+		{
+			"id": "+5 Shield Special Abilities"
+		},
+		{
+			"id": "Ammunition"
+		},
+		{
+			"id": "Armour Type"
+		},
+		{
+			"id": "Armour and Shield Addons"
+		},
+		{
+			"id": "Bane Subtypes"
+		},
+		{
+			"id": "Common Level 0 Arcane Scrolls"
+		},
+		{
+			"id": "Common Level 0 Divine Scrolls"
+		},
+		{
+			"id": "Common Level 0 Wands"
+		},
+		{
+			"id": "Common Level 1 Arcane Scrolls"
+		},
+		{
+			"id": "Common Level 1 Divine Scrolls"
+		},
+		{
+			"id": "Common Level 1 Potions and Oils"
+		},
+		{
+			"id": "Common Level 1 Wands"
+		},
+		{
+			"id": "Common Level 2 Arcane Scrolls"
+		},
+		{
+			"id": "Common Level 2 Divine Scrolls"
+		},
+		{
+			"id": "Common Level 2 Potions and Oils"
+		},
+		{
+			"id": "Common Level 2 Wands"
+		},
+		{
+			"id": "Common Level 3 Arcane Scrolls"
+		},
+		{
+			"id": "Common Level 3 Divine Scrolls"
+		},
+		{
+			"id": "Common Level 3 Potions and Oils"
+		},
+		{
+			"id": "Common Level 3 Wands"
+		},
+		{
+			"id": "Common Level 4 Arcane Scrolls"
+		},
+		{
+			"id": "Common Level 4 Divine Scrolls"
+		},
+		{
+			"id": "Common Level 4 Wands"
+		},
+		{
+			"id": "Common Level 5 Arcane Scrolls"
+		},
+		{
+			"id": "Common Level 5 Divine Scrolls"
+		},
+		{
+			"id": "Common Level 6 Arcane Scrolls"
+		},
+		{
+			"id": "Common Level 6 Divine Scrolls"
+		},
+		{
+			"id": "Common Level 7 Arcane Scrolls"
+		},
+		{
+			"id": "Common Level 7 Divine Scrolls"
+		},
+		{
+			"id": "Common Level 8 Arcane Scrolls"
+		},
+		{
+			"id": "Common Level 8 Divine Scrolls"
+		},
+		{
+			"id": "Common Level 9 Arcane Scrolls"
+		},
+		{
+			"id": "Common Level 9 Divine Scrolls"
+		},
+		{
+			"id": "Greater Major Arcane Scrolls"
+		},
+		{
+			"id": "Greater Major Armour and Shields"
+		},
+		{
+			"id": "Greater Major Belt"
+		},
+		{
+			"id": "Greater Major Body"
+		},
+		{
+			"id": "Greater Major Chest"
+		},
+		{
+			"id": "Greater Major Divine Scrolls"
+		},
+		{
+			"id": "Greater Major Eye"
+		},
+		{
+			"id": "Greater Major Feet"
+		},
+		{
+			"id": "Greater Major Hand"
+		},
+		{
+			"id": "Greater Major Head"
+		},
+		{
+			"id": "Greater Major Headband"
+		},
+		{
+			"id": "Greater Major Magic Items"
+		},
+		{
+			"id": "Greater Major Neck"
+		},
+		{
+			"id": "Greater Major Ring"
+		},
+		{
+			"id": "Greater Major Rods"
+		},
+		{
+			"id": "Greater Major Shoulders"
+		},
+		{
+			"id": "Greater Major Slotless"
+		},
+		{
+			"id": "Greater Major Specific Armours"
+		},
+		{
+			"id": "Greater Major Specific Shields"
+		},
+		{
+			"id": "Greater Major Specific Weapons"
+		},
+		{
+			"id": "Greater Major Staff"
+		},
+		{
+			"id": "Greater Major Weapon"
+		},
+		{
+			"id": "Greater Major Wrists"
+		},
+		{
+			"id": "Greater Medium Arcane Scrolls"
+		},
+		{
+			"id": "Greater Medium Armour and Shields"
+		},
+		{
+			"id": "Greater Medium Belt"
+		},
+		{
+			"id": "Greater Medium Body"
+		},
+		{
+			"id": "Greater Medium Chest"
+		},
+		{
+			"id": "Greater Medium Divine Scrolls"
+		},
+		{
+			"id": "Greater Medium Eye"
+		},
+		{
+			"id": "Greater Medium Feet"
+		},
+		{
+			"id": "Greater Medium Hand"
+		},
+		{
+			"id": "Greater Medium Head"
+		},
+		{
+			"id": "Greater Medium Headband"
+		},
+		{
+			"id": "Greater Medium Magic Items"
+		},
+		{
+			"id": "Greater Medium Neck"
+		},
+		{
+			"id": "Greater Medium Ring"
+		},
+		{
+			"id": "Greater Medium Rods"
+		},
+		{
+			"id": "Greater Medium Shoulders"
+		},
+		{
+			"id": "Greater Medium Slotless"
+		},
+		{
+			"id": "Greater Medium Specific Armours"
+		},
+		{
+			"id": "Greater Medium Specific Shields"
+		},
+		{
+			"id": "Greater Medium Specific Weapons"
+		},
+		{
+			"id": "Greater Medium Staff"
+		},
+		{
+			"id": "Greater Medium Weapon"
+		},
+		{
+			"id": "Greater Medium Wrists"
+		},
+		{
+			"id": "Greater Minor Arcane Scrolls"
+		},
+		{
+			"id": "Greater Minor Armour and Shields"
+		},
+		{
+			"id": "Greater Minor Belt"
+		},
+		{
+			"id": "Greater Minor Body"
+		},
+		{
+			"id": "Greater Minor Chest"
+		},
+		{
+			"id": "Greater Minor Divine Scrolls"
+		},
+		{
+			"id": "Greater Minor Eye"
+		},
+		{
+			"id": "Greater Minor Feet"
+		},
+		{
+			"id": "Greater Minor Hand"
+		},
+		{
+			"id": "Greater Minor Head"
+		},
+		{
+			"id": "Greater Minor Headband"
+		},
+		{
+			"id": "Greater Minor Magic Item"
+		},
+		{
+			"id": "Greater Minor Neck"
+		},
+		{
+			"id": "Greater Minor Ring"
+		},
+		{
+			"id": "Greater Minor Shoulders"
+		},
+		{
+			"id": "Greater Minor Slotless"
+		},
+		{
+			"id": "Greater Minor Specific Armours"
+		},
+		{
+			"id": "Greater Minor Specific Shields"
+		},
+		{
+			"id": "Greater Minor Specific Weapons"
+		},
+		{
+			"id": "Greater Minor Weapon"
+		},
+		{
+			"id": "Greater Minor Wrists"
+		},
+		{
+			"id": "Heavy Armours"
+		},
+		{
+			"id": "Lesser Major Arcane Scrolls"
+		},
+		{
+			"id": "Lesser Major Armour and Shields"
+		},
+		{
+			"id": "Lesser Major Belt"
+		},
+		{
+			"id": "Lesser Major Body"
+		},
+		{
+			"id": "Lesser Major Chest"
+		},
+		{
+			"id": "Lesser Major Divine Scrolls"
+		},
+		{
+			"id": "Lesser Major Eye"
+		},
+		{
+			"id": "Lesser Major Feet"
+		},
+		{
+			"id": "Lesser Major Hand"
+		},
+		{
+			"id": "Lesser Major Head"
+		},
+		{
+			"id": "Lesser Major Headband"
+		},
+		{
+			"id": "Lesser Major Magic Items"
+		},
+		{
+			"id": "Lesser Major Neck"
+		},
+		{
+			"id": "Lesser Major Ring"
+		},
+		{
+			"id": "Lesser Major Rods"
+		},
+		{
+			"id": "Lesser Major Shoulders"
+		},
+		{
+			"id": "Lesser Major Slotless"
+		},
+		{
+			"id": "Lesser Major Specific Armours"
+		},
+		{
+			"id": "Lesser Major Specific Shields"
+		},
+		{
+			"id": "Lesser Major Specific Weapons"
+		},
+		{
+			"id": "Lesser Major Staff"
+		},
+		{
+			"id": "Lesser Major Weapon"
+		},
+		{
+			"id": "Lesser Major Wrists"
+		},
+		{
+			"id": "Lesser Medium Arcane Scrolls"
+		},
+		{
+			"id": "Lesser Medium Armour and Shields"
+		},
+		{
+			"id": "Lesser Medium Belt"
+		},
+		{
+			"id": "Lesser Medium Body"
+		},
+		{
+			"id": "Lesser Medium Chest"
+		},
+		{
+			"id": "Lesser Medium Divine Scrolls"
+		},
+		{
+			"id": "Lesser Medium Eye"
+		},
+		{
+			"id": "Lesser Medium Feet"
+		},
+		{
+			"id": "Lesser Medium Hand"
+		},
+		{
+			"id": "Lesser Medium Head"
+		},
+		{
+			"id": "Lesser Medium Headband"
+		},
+		{
+			"id": "Lesser Medium Magic Items"
+		},
+		{
+			"id": "Lesser Medium Neck"
+		},
+		{
+			"id": "Lesser Medium Ring"
+		},
+		{
+			"id": "Lesser Medium Rods"
+		},
+		{
+			"id": "Lesser Medium Shoulders"
+		},
+		{
+			"id": "Lesser Medium Slotless"
+		},
+		{
+			"id": "Lesser Medium Specific Armours"
+		},
+		{
+			"id": "Lesser Medium Specific Shields"
+		},
+		{
+			"id": "Lesser Medium Specific Weapons"
+		},
+		{
+			"id": "Lesser Medium Staff"
+		},
+		{
+			"id": "Lesser Medium Weapon"
+		},
+		{
+			"id": "Lesser Medium Wrists"
+		},
+		{
+			"id": "Lesser Minor Arcane Scrolls"
+		},
+		{
+			"id": "Lesser Minor Armour and Shields"
+		},
+		{
+			"id": "Lesser Minor Belt"
+		},
+		{
+			"id": "Lesser Minor Body"
+		},
+		{
+			"id": "Lesser Minor Chest"
+		},
+		{
+			"id": "Lesser Minor Divine Scrolls"
+		},
+		{
+			"id": "Lesser Minor Eye"
+		},
+		{
+			"id": "Lesser Minor Feet"
+		},
+		{
+			"id": "Lesser Minor Hand"
+		},
+		{
+			"id": "Lesser Minor Head"
+		},
+		{
+			"id": "Lesser Minor Headband"
+		},
+		{
+			"id": "Lesser Minor Magic Item"
+		},
+		{
+			"id": "Lesser Minor Neck"
+		},
+		{
+			"id": "Lesser Minor Ring"
+		},
+		{
+			"id": "Lesser Minor Shoulders"
+		},
+		{
+			"id": "Lesser Minor Slotless"
+		},
+		{
+			"id": "Lesser Minor Specific Armours"
+		},
+		{
+			"id": "Lesser Minor Specific Shields"
+		},
+		{
+			"id": "Lesser Minor Specific Weapons"
+		},
+		{
+			"id": "Lesser Minor Weapon"
+		},
+		{
+			"id": "Lesser Minor Wrists"
+		},
+		{
+			"id": "Light Armours"
+		},
+		{
+			"id": "Light Melee"
+		},
+		{
+			"id": "Medium Armours"
+		},
+		{
+			"id": "Metamagic Rods +1 Level"
+		},
+		{
+			"id": "Metamagic Rods +2 Level"
+		},
+		{
+			"id": "Metamagic Rods +3 Level"
+		},
+		{
+			"id": "One Handed Melee"
+		},
+		{
+			"id": "Ranged"
+		},
+		{
+			"id": "Shields"
+		},
+		{
+			"id": "Two Handed Melee"
+		},
+		{
+			"id": "Uncommon Level 0 Arcane Scrolls"
+		},
+		{
+			"id": "Uncommon Level 0 Divine Scrolls"
+		},
+		{
+			"id": "Uncommon Level 0 Wands"
+		},
+		{
+			"id": "Uncommon Level 1 Arcane Scrolls"
+		},
+		{
+			"id": "Uncommon Level 1 Divine Scrolls"
+		},
+		{
+			"id": "Uncommon Level 1 Potions and Oils"
+		},
+		{
+			"id": "Uncommon Level 1 Wands"
+		},
+		{
+			"id": "Uncommon Level 2 Arcane Scrolls"
+		},
+		{
+			"id": "Uncommon Level 2 Divine Scrolls"
+		},
+		{
+			"id": "Uncommon Level 2 Potions and Oils"
+		},
+		{
+			"id": "Uncommon Level 2 Wands"
+		},
+		{
+			"id": "Uncommon Level 3 Arcane Scrolls"
+		},
+		{
+			"id": "Uncommon Level 3 Divine Scrolls"
+		},
+		{
+			"id": "Uncommon Level 3 Potions and Oils"
+		},
+		{
+			"id": "Uncommon Level 3 Wands"
+		},
+		{
+			"id": "Uncommon Level 4 Arcane Scrolls"
+		},
+		{
+			"id": "Uncommon Level 4 Divine Scrolls"
+		},
+		{
+			"id": "Uncommon Level 4 Wands"
+		},
+		{
+			"id": "Uncommon Level 5 Arcane Scrolls"
+		},
+		{
+			"id": "Uncommon Level 5 Divine Scrolls"
+		},
+		{
+			"id": "Uncommon Level 6 Arcane Scrolls"
+		},
+		{
+			"id": "Uncommon Level 6 Divine Scrolls"
+		},
+		{
+			"id": "Uncommon Level 7 Arcane Scrolls"
+		},
+		{
+			"id": "Uncommon Level 7 Divine Scrolls"
+		},
+		{
+			"id": "Uncommon Level 8 Arcane Scrolls"
+		},
+		{
+			"id": "Uncommon Level 8 Divine Scrolls"
+		},
+		{
+			"id": "Uncommon Level 9 Arcane Scrolls"
+		},
+		{
+			"id": "Uncommon Level 9 Divine Scrolls"
+		},
+		{
+			"id": "Weapon Type"
+		}
+	]
+}

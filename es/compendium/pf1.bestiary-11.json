@@ -1,1630 +1,1305 @@
 {
 	"label": "Bestiary - CR 11-14",
-	"entries": [
-		{
-			"id": "Abandoned Armory",
+	"entries": {
+		"Abandoned Armory": {
 			"name": "Abandoned Armory",
 			"description": ""
 		},
-		{
-			"id": "Abrakarn Viper",
+		"Abrakarn Viper": {
 			"name": "Abrakarn Viper",
 			"description": ""
 		},
-		{
-			"id": "Acrididaemon",
+		"Acrididaemon": {
 			"name": "Acrididaemon",
 			"description": ""
 		},
-		{
-			"id": "Adult Astral Dragon",
+		"Adult Astral Dragon": {
 			"name": "Adult Astral Dragon",
 			"description": ""
 		},
-		{
-			"id": "Adult Black Dragon",
+		"Adult Black Dragon": {
 			"name": "Adult Black Dragon",
 			"description": ""
 		},
-		{
-			"id": "Adult Brass Dragon",
+		"Adult Brass Dragon": {
 			"name": "Adult Brass Dragon",
 			"description": ""
 		},
-		{
-			"id": "Adult Bronze Dragon",
+		"Adult Bronze Dragon": {
 			"name": "Adult Bronze Dragon",
 			"description": ""
 		},
-		{
-			"id": "Adult Cloud Dragon",
+		"Adult Cloud Dragon": {
 			"name": "Adult Cloud Dragon",
 			"description": ""
 		},
-		{
-			"id": "Adult Dream Dragon",
+		"Adult Dream Dragon": {
 			"name": "Adult Dream Dragon",
 			"description": ""
 		},
-		{
-			"id": "Adult Etheric Dragon",
+		"Adult Etheric Dragon": {
 			"name": "Adult Etheric Dragon",
 			"description": ""
 		},
-		{
-			"id": "Adult Magma Dragon",
+		"Adult Magma Dragon": {
 			"name": "Adult Magma Dragon",
 			"description": ""
 		},
-		{
-			"id": "Adult Silver Dragon",
+		"Adult Silver Dragon": {
 			"name": "Adult Silver Dragon",
 			"description": ""
 		},
-		{
-			"id": "Adult Solar Dragon",
+		"Adult Solar Dragon": {
 			"name": "Adult Solar Dragon",
 			"description": ""
 		},
-		{
-			"id": "Adult Umbral Dragon",
+		"Adult Umbral Dragon": {
 			"name": "Adult Umbral Dragon",
 			"description": ""
 		},
-		{
-			"id": "Adult Underworld Dragon",
+		"Adult Underworld Dragon": {
 			"name": "Adult Underworld Dragon",
 			"description": ""
 		},
-		{
-			"id": "Adult Void Dragon",
+		"Adult Void Dragon": {
 			"name": "Adult Void Dragon",
 			"description": ""
 		},
-		{
-			"id": "Adult Vortex Dragon",
+		"Adult Vortex Dragon": {
 			"name": "Adult Vortex Dragon",
 			"description": ""
 		},
-		{
-			"id": "Aerial Servant",
+		"Aerial Servant": {
 			"name": "Aerial Servant",
 			"description": ""
 		},
-		{
-			"id": "Aghasura",
+		"Aghasura": {
 			"name": "Aghasura",
 			"description": ""
 		},
-		{
-			"id": "Agnoia",
+		"Agnoia": {
 			"name": "Agnoia",
 			"description": ""
 		},
-		{
-			"id": "Akhana",
+		"Akhana": {
 			"name": "Akhana",
 			"description": ""
 		},
-		{
-			"id": "Akhlut",
+		"Akhlut": {
 			"name": "Akhlut",
 			"description": ""
 		},
-		{
-			"id": "Akilep, Lady Of Stone",
+		"Akilep, Lady Of Stone": {
 			"name": "Akilep, Lady Of Stone",
 			"description": ""
 		},
-		{
-			"id": "Alraune",
+		"Alraune": {
 			"name": "Alraune",
 			"description": ""
 		},
-		{
-			"id": "Amarok",
+		"Amarok": {
 			"name": "Amarok",
 			"description": ""
 		},
-		{
-			"id": "Animated Tank",
+		"Animated Tank": {
 			"name": "Animated Tank",
 			"description": ""
 		},
-		{
-			"id": "Ankou",
+		"Ankou": {
 			"name": "Ankou",
 			"description": ""
 		},
-		{
-			"id": "Aoandon",
+		"Aoandon": {
 			"name": "Aoandon",
 			"description": ""
 		},
-		{
-			"id": "Apostle Kyton",
+		"Apostle Kyton": {
 			"name": "Apostle Kyton",
 			"description": ""
 		},
-		{
-			"id": "Ash Giant",
+		"Ash Giant": {
 			"name": "Ash Giant",
 			"description": ""
 		},
-		{
-			"id": "Ashullian",
+		"Ashullian": {
 			"name": "Ashullian",
 			"description": ""
 		},
-		{
-			"id": "Astral Deva",
+		"Astral Deva": {
 			"name": "Astral Deva",
 			"description": ""
 		},
-		{
-			"id": "Atamahuta",
+		"Atamahuta": {
 			"name": "Atamahuta",
 			"description": ""
 		},
-		{
-			"id": "Athach",
+		"Athach": {
 			"name": "Athach",
 			"description": ""
 		},
-		{
-			"id": "Atuikakura",
+		"Atuikakura": {
 			"name": "Atuikakura",
 			"description": ""
 		},
-		{
-			"id": "Augnagar",
+		"Augnagar": {
 			"name": "Augnagar",
 			"description": ""
 		},
-		{
-			"id": "Azruverda",
+		"Azruverda": {
 			"name": "Azruverda",
 			"description": ""
 		},
-		{
-			"id": "Banelight",
+		"Banelight": {
 			"name": "Banelight",
 			"description": ""
 		},
-		{
-			"id": "Banshee",
+		"Banshee": {
 			"name": "Banshee",
 			"description": ""
 		},
-		{
-			"id": "Barbed Devil (hamatula)",
+		"Barbed Devil (hamatula)": {
 			"name": "Barbed Devil (hamatula)",
 			"description": ""
 		},
-		{
-			"id": "Baregara",
+		"Baregara": {
 			"name": "Baregara",
 			"description": ""
 		},
-		{
-			"id": "Basilosaurus",
+		"Basilosaurus": {
 			"name": "Basilosaurus",
 			"description": ""
 		},
-		{
-			"id": "Bhuta",
+		"Bhuta": {
 			"name": "Bhuta",
 			"description": ""
 		},
-		{
-			"id": "Black Rider",
+		"Black Rider": {
 			"name": "Black Rider",
 			"description": ""
 		},
-		{
-			"id": "Blue Whale",
+		"Blue Whale": {
 			"name": "Blue Whale",
 			"description": ""
 		},
-		{
-			"id": "Bodythief",
+		"Bodythief": {
 			"name": "Bodythief",
 			"description": ""
 		},
-		{
-			"id": "Bolla",
+		"Bolla": {
 			"name": "Bolla",
 			"description": ""
 		},
-		{
-			"id": "Bonethorn",
+		"Bonethorn": {
 			"name": "Bonethorn",
 			"description": ""
 		},
-		{
-			"id": "Bugbear Bloodmage",
+		"Bugbear Bloodmage": {
 			"name": "Bugbear Bloodmage",
 			"description": ""
 		},
-		{
-			"id": "Bugbear Tyrant",
+		"Bugbear Tyrant": {
 			"name": "Bugbear Tyrant",
 			"description": ""
 		},
-		{
-			"id": "Calikang",
+		"Calikang": {
 			"name": "Calikang",
 			"description": ""
 		},
-		{
-			"id": "Cameroceras",
+		"Cameroceras": {
 			"name": "Cameroceras",
 			"description": ""
 		},
-		{
-			"id": "Capacitor Ooze",
+		"Capacitor Ooze": {
 			"name": "Capacitor Ooze",
 			"description": ""
 		},
-		{
-			"id": "Carnivorous Blob",
+		"Carnivorous Blob": {
 			"name": "Carnivorous Blob",
 			"description": ""
 		},
-		{
-			"id": "Carnivorous Crystal",
+		"Carnivorous Crystal": {
 			"name": "Carnivorous Crystal",
 			"description": ""
 		},
-		{
-			"id": "Cat Lord",
+		"Cat Lord": {
 			"name": "Cat Lord",
 			"description": ""
 		},
-		{
-			"id": "Centaur Charger",
+		"Centaur Charger": {
 			"name": "Centaur Charger",
 			"description": ""
 		},
-		{
-			"id": "Cerberus Worm",
+		"Cerberus Worm": {
 			"name": "Cerberus Worm",
 			"description": ""
 		},
-		{
-			"id": "Cetus",
+		"Cetus": {
 			"name": "Cetus",
 			"description": ""
 		},
-		{
-			"id": "Chained Spirit",
+		"Chained Spirit": {
 			"name": "Chained Spirit",
 			"description": ""
 		},
-		{
-			"id": "Charybdis",
+		"Charybdis": {
 			"name": "Charybdis",
 			"description": ""
 		},
-		{
-			"id": "Chernobue",
+		"Chernobue": {
 			"name": "Chernobue",
 			"description": ""
 		},
-		{
-			"id": "Cherufe",
+		"Cherufe": {
 			"name": "Cherufe",
 			"description": ""
 		},
-		{
-			"id": "Clockwork Leviathan",
+		"Clockwork Leviathan": {
 			"name": "Clockwork Leviathan",
 			"description": ""
 		},
-		{
-			"id": "Clockwork Nautiloid",
+		"Clockwork Nautiloid": {
 			"name": "Clockwork Nautiloid",
 			"description": ""
 		},
-		{
-			"id": "Clockwork Priest",
+		"Clockwork Priest": {
 			"name": "Clockwork Priest",
 			"description": ""
 		},
-		{
-			"id": "Cloud Giant",
+		"Cloud Giant": {
 			"name": "Cloud Giant",
 			"description": ""
 		},
-		{
-			"id": "Coloxus",
+		"Coloxus": {
 			"name": "Coloxus",
 			"description": ""
 		},
-		{
-			"id": "Copsewight",
+		"Copsewight": {
 			"name": "Copsewight",
 			"description": ""
 		},
-		{
-			"id": "Corpse Lotus",
+		"Corpse Lotus": {
 			"name": "Corpse Lotus",
 			"description": ""
 		},
-		{
-			"id": "Crag Linnorm",
+		"Crag Linnorm": {
 			"name": "Crag Linnorm",
 			"description": ""
 		},
-		{
-			"id": "Cruciarus",
+		"Cruciarus": {
 			"name": "Cruciarus",
 			"description": ""
 		},
-		{
-			"id": "Cultist Troop",
+		"Cultist Troop": {
 			"name": "Cultist Troop",
 			"description": ""
 		},
-		{
-			"id": "Cyclops Lorekeeper",
+		"Cyclops Lorekeeper": {
 			"name": "Cyclops Lorekeeper",
 			"description": ""
 		},
-		{
-			"id": "Cynosoma",
+		"Cynosoma": {
 			"name": "Cynosoma",
 			"description": ""
 		},
-		{
-			"id": "Danse Macabre",
+		"Danse Macabre": {
 			"name": "Danse Macabre",
 			"description": ""
 		},
-		{
-			"id": "Dark Young Of Shub-niggurath",
+		"Dark Young Of Shub-niggurath": {
 			"name": "Dark Young Of Shub-niggurath",
 			"description": ""
 		},
-		{
-			"id": "Deadly Mantis",
+		"Deadly Mantis": {
 			"name": "Deadly Mantis",
 			"description": ""
 		},
-		{
-			"id": "Death Coach",
+		"Death Coach": {
 			"name": "Death Coach",
 			"description": ""
 		},
-		{
-			"id": "Deep Naga",
+		"Deep Naga": {
 			"name": "Deep Naga",
 			"description": ""
 		},
-		{
-			"id": "Derghodaemon",
+		"Derghodaemon": {
 			"name": "Derghodaemon",
 			"description": ""
 		},
-		{
-			"id": "Desert Blight",
+		"Desert Blight": {
 			"name": "Desert Blight",
 			"description": ""
 		},
-		{
-			"id": "Devilbound Sorcerer",
+		"Devilbound Sorcerer": {
 			"name": "Devilbound Sorcerer",
 			"description": ""
 		},
-		{
-			"id": "Devourer",
+		"Devourer": {
 			"name": "Devourer",
 			"description": ""
 		},
-		{
-			"id": "Dhirgiska",
+		"Dhirgiska": {
 			"name": "Dhirgiska",
 			"description": ""
 		},
-		{
-			"id": "Diplodocus",
+		"Diplodocus": {
 			"name": "Diplodocus",
 			"description": ""
 		},
-		{
-			"id": "Dorvae",
+		"Dorvae": {
 			"name": "Dorvae",
 			"description": ""
 		},
-		{
-			"id": "Duergar Hammer",
+		"Duergar Hammer": {
 			"name": "Duergar Hammer",
 			"description": ""
 		},
-		{
-			"id": "Dune Strider",
+		"Dune Strider": {
 			"name": "Dune Strider",
 			"description": ""
 		},
-		{
-			"id": "Dwiergeth",
+		"Dwiergeth": {
 			"name": "Dwiergeth",
 			"description": ""
 		},
-		{
-			"id": "Earth Yai",
+		"Earth Yai": {
 			"name": "Earth Yai",
 			"description": ""
 		},
-		{
-			"id": "Elder Aether Elemental",
+		"Elder Aether Elemental": {
 			"name": "Elder Aether Elemental",
 			"description": ""
 		},
-		{
-			"id": "Elder Air Elemental",
+		"Elder Air Elemental": {
 			"name": "Elder Air Elemental",
 			"description": ""
 		},
-		{
-			"id": "Elder Deep One",
+		"Elder Deep One": {
 			"name": "Elder Deep One",
 			"description": ""
 		},
-		{
-			"id": "Elder Earth Elemental",
+		"Elder Earth Elemental": {
 			"name": "Elder Earth Elemental",
 			"description": ""
 		},
-		{
-			"id": "Elder Fire Elemental",
+		"Elder Fire Elemental": {
 			"name": "Elder Fire Elemental",
 			"description": ""
 		},
-		{
-			"id": "Elder Lightning Elemental",
+		"Elder Lightning Elemental": {
 			"name": "Elder Lightning Elemental",
 			"description": ""
 		},
-		{
-			"id": "Elder Magma Elemental",
+		"Elder Magma Elemental": {
 			"name": "Elder Magma Elemental",
 			"description": ""
 		},
-		{
-			"id": "Elder Mud Elemental",
+		"Elder Mud Elemental": {
 			"name": "Elder Mud Elemental",
 			"description": ""
 		},
-		{
-			"id": "Elder Water Elemental",
+		"Elder Water Elemental": {
 			"name": "Elder Water Elemental",
 			"description": ""
 		},
-		{
-			"id": "Empusa",
+		"Empusa": {
 			"name": "Empusa",
 			"description": ""
 		},
-		{
-			"id": "Enlightened Vampire",
+		"Enlightened Vampire": {
 			"name": "Enlightened Vampire",
 			"description": ""
 		},
-		{
-			"id": "Erodaemon",
+		"Erodaemon": {
 			"name": "Erodaemon",
 			"description": ""
 		},
-		{
-			"id": "Executioner Devil (munagola)",
+		"Executioner Devil (munagola)": {
 			"name": "Executioner Devil (munagola)",
 			"description": ""
 		},
-		{
-			"id": "Exscinder",
+		"Exscinder": {
 			"name": "Exscinder",
 			"description": ""
 		},
-		{
-			"id": "Ez-azael",
+		"Ez-azael": {
 			"name": "Ez-azael",
 			"description": ""
 		},
-		{
-			"id": "Fastachee",
+		"Fastachee": {
 			"name": "Fastachee",
 			"description": ""
 		},
-		{
-			"id": "Feranth",
+		"Feranth": {
 			"name": "Feranth",
 			"description": ""
 		},
-		{
-			"id": "Fire Giant Glaive",
+		"Fire Giant Glaive": {
 			"name": "Fire Giant Glaive",
 			"description": ""
 		},
-		{
-			"id": "Fire Giant Strongarm",
+		"Fire Giant Strongarm": {
 			"name": "Fire Giant Strongarm",
 			"description": ""
 		},
-		{
-			"id": "Flying Polyp",
+		"Flying Polyp": {
 			"name": "Flying Polyp",
 			"description": ""
 		},
-		{
-			"id": "Forsaken Lich",
+		"Forsaken Lich": {
 			"name": "Forsaken Lich",
 			"description": ""
 		},
-		{
-			"id": "Froghemoth",
+		"Froghemoth": {
 			"name": "Froghemoth",
 			"description": ""
 		},
-		{
-			"id": "Frost Giant Elite Scout",
+		"Frost Giant Elite Scout": {
 			"name": "Frost Giant Elite Scout",
 			"description": ""
 		},
-		{
-			"id": "Frost Giant Houndmaster",
+		"Frost Giant Houndmaster": {
 			"name": "Frost Giant Houndmaster",
 			"description": ""
 		},
-		{
-			"id": "Frost Giant Hunter",
+		"Frost Giant Hunter": {
 			"name": "Frost Giant Hunter",
 			"description": ""
 		},
-		{
-			"id": "Frost Giant Ice Mage",
+		"Frost Giant Ice Mage": {
 			"name": "Frost Giant Ice Mage",
 			"description": ""
 		},
-		{
-			"id": "Frost Giant Raider",
+		"Frost Giant Raider": {
 			"name": "Frost Giant Raider",
 			"description": ""
 		},
-		{
-			"id": "Frost Worm",
+		"Frost Worm": {
 			"name": "Frost Worm",
 			"description": ""
 		},
-		{
-			"id": "Fuldrex",
+		"Fuldrex": {
 			"name": "Fuldrex",
 			"description": ""
 		},
-		{
-			"id": "Gashadokuro",
+		"Gashadokuro": {
 			"name": "Gashadokuro",
 			"description": ""
 		},
-		{
-			"id": "Ghaele",
+		"Ghaele": {
 			"name": "Ghaele",
 			"description": ""
 		},
-		{
-			"id": "Ghole",
+		"Ghole": {
 			"name": "Ghole",
 			"description": ""
 		},
-		{
-			"id": "Ghorazagh",
+		"Ghorazagh": {
 			"name": "Ghorazagh",
 			"description": ""
 		},
-		{
-			"id": "Giant Emperor Scorpion",
+		"Giant Emperor Scorpion": {
 			"name": "Giant Emperor Scorpion",
 			"description": ""
 		},
-		{
-			"id": "Giant Sundew",
+		"Giant Sundew": {
 			"name": "Giant Sundew",
 			"description": ""
 		},
-		{
-			"id": "Gibrileth",
+		"Gibrileth": {
 			"name": "Gibrileth",
 			"description": ""
 		},
-		{
-			"id": "Gigas Clam",
+		"Gigas Clam": {
 			"name": "Gigas Clam",
 			"description": ""
 		},
-		{
-			"id": "Glabrezu",
+		"Glabrezu": {
 			"name": "Glabrezu",
 			"description": ""
 		},
-		{
-			"id": "Glorious Reclamation",
+		"Glorious Reclamation": {
 			"name": "Glorious Reclamation",
 			"description": ""
 		},
-		{
-			"id": "Gnoll Bouda",
+		"Gnoll Bouda": {
 			"name": "Gnoll Bouda",
 			"description": ""
 		},
-		{
-			"id": "Gnoll Ravager",
+		"Gnoll Ravager": {
 			"name": "Gnoll Ravager",
 			"description": ""
 		},
-		{
-			"id": "Gnoph-keh",
+		"Gnoph-keh": {
 			"name": "Gnoph-keh",
 			"description": ""
 		},
-		{
-			"id": "Goezspall",
+		"Goezspall": {
 			"name": "Goezspall",
 			"description": ""
 		},
-		{
-			"id": "Goliath Spider",
+		"Goliath Spider": {
 			"name": "Goliath Spider",
 			"description": ""
 		},
-		{
-			"id": "Gongorinan",
+		"Gongorinan": {
 			"name": "Gongorinan",
 			"description": ""
 		},
-		{
-			"id": "Graveknight",
+		"Graveknight": {
 			"name": "Graveknight",
 			"description": ""
 		},
-		{
-			"id": "Gravesludge",
+		"Gravesludge": {
 			"name": "Gravesludge",
 			"description": ""
 		},
-		{
-			"id": "Great White Whale",
+		"Great White Whale": {
 			"name": "Great White Whale",
 			"description": ""
 		},
-		{
-			"id": "Greater Verduous Ooze",
+		"Greater Verduous Ooze": {
 			"name": "Greater Verduous Ooze",
 			"description": ""
 		},
-		{
-			"id": "Grisantian Lion",
+		"Grisantian Lion": {
 			"name": "Grisantian Lion",
 			"description": ""
 		},
-		{
-			"id": "Gunpowder Ooze",
+		"Gunpowder Ooze": {
 			"name": "Gunpowder Ooze",
 			"description": ""
 		},
-		{
-			"id": "Handmaiden Devil (gylou)",
+		"Handmaiden Devil (gylou)": {
 			"name": "Handmaiden Devil (gylou)",
 			"description": ""
 		},
-		{
-			"id": "Harionago",
+		"Harionago": {
 			"name": "Harionago",
 			"description": ""
 		},
-		{
-			"id": "Heartrot Tree",
+		"Heartrot Tree": {
 			"name": "Heartrot Tree",
 			"description": ""
 		},
-		{
-			"id": "Heresy Devil (ayngavhaul)",
+		"Heresy Devil (ayngavhaul)": {
 			"name": "Heresy Devil (ayngavhaul)",
 			"description": ""
 		},
-		{
-			"id": "Hetkoshu",
+		"Hetkoshu": {
 			"name": "Hetkoshu",
 			"description": ""
 		},
-		{
-			"id": "Hezrou",
+		"Hezrou": {
 			"name": "Hezrou",
 			"description": ""
 		},
-		{
-			"id": "Hunting Horror",
+		"Hunting Horror": {
 			"name": "Hunting Horror",
 			"description": ""
 		},
-		{
-			"id": "Ibshaunet",
+		"Ibshaunet": {
 			"name": "Ibshaunet",
 			"description": ""
 		},
-		{
-			"id": "Ice Devil (gelugon)",
+		"Ice Devil (gelugon)": {
 			"name": "Ice Devil (gelugon)",
 			"description": ""
 		},
-		{
-			"id": "Ice Yai",
+		"Ice Yai": {
 			"name": "Ice Yai",
 			"description": ""
 		},
-		{
-			"id": "Impundulu",
+		"Impundulu": {
 			"name": "Impundulu",
 			"description": ""
 		},
-		{
-			"id": "Indarugant",
+		"Indarugant": {
 			"name": "Indarugant",
 			"description": ""
 		},
-		{
-			"id": "Interlocutor",
+		"Interlocutor": {
 			"name": "Interlocutor",
 			"description": ""
 		},
-		{
-			"id": "Irlgaunt",
+		"Irlgaunt": {
 			"name": "Irlgaunt",
 			"description": ""
 		},
-		{
-			"id": "Iron Rhinoceros",
+		"Iron Rhinoceros": {
 			"name": "Iron Rhinoceros",
 			"description": ""
 		},
-		{
-			"id": "Ironfang Magehunter Troop",
+		"Ironfang Magehunter Troop": {
 			"name": "Ironfang Magehunter Troop",
 			"description": ""
 		},
-		{
-			"id": "Ixion Worm",
+		"Ixion Worm": {
 			"name": "Ixion Worm",
 			"description": ""
 		},
-		{
-			"id": "Japalisura",
+		"Japalisura": {
 			"name": "Japalisura",
 			"description": ""
 		},
-		{
-			"id": "Jinmenju",
+		"Jinmenju": {
 			"name": "Jinmenju",
 			"description": ""
 		},
-		{
-			"id": "Jorogumo",
+		"Jorogumo": {
 			"name": "Jorogumo",
 			"description": ""
 		},
-		{
-			"id": "Juggernaut",
+		"Juggernaut": {
 			"name": "Juggernaut",
 			"description": ""
 		},
-		{
-			"id": "Juggernaut Beetle",
+		"Juggernaut Beetle": {
 			"name": "Juggernaut Beetle",
 			"description": ""
 		},
-		{
-			"id": "Kakuen-taka",
+		"Kakuen-taka": {
 			"name": "Kakuen-taka",
 			"description": ""
 		},
-		{
-			"id": "Kamaitachi",
+		"Kamaitachi": {
 			"name": "Kamaitachi",
 			"description": ""
 		},
-		{
-			"id": "Kasthezvi",
+		"Kasthezvi": {
 			"name": "Kasthezvi",
 			"description": ""
 		},
-		{
-			"id": "Ketesthius",
+		"Ketesthius": {
 			"name": "Ketesthius",
 			"description": ""
 		},
-		{
-			"id": "Khardajeen",
+		"Khardajeen": {
 			"name": "Khardajeen",
 			"description": ""
 		},
-		{
-			"id": "Kikituk",
+		"Kikituk": {
 			"name": "Kikituk",
 			"description": ""
 		},
-		{
-			"id": "King Ragworm",
+		"King Ragworm": {
 			"name": "King Ragworm",
 			"description": ""
 		},
-		{
-			"id": "Kokogiak",
+		"Kokogiak": {
 			"name": "Kokogiak",
 			"description": ""
 		},
-		{
-			"id": "Kolyarut",
+		"Kolyarut": {
 			"name": "Kolyarut",
 			"description": ""
 		},
-		{
-			"id": "Lapsudaemon",
+		"Lapsudaemon": {
 			"name": "Lapsudaemon",
 			"description": ""
 		},
-		{
-			"id": "Larabay",
+		"Larabay": {
 			"name": "Larabay",
 			"description": ""
 		},
-		{
-			"id": "Legendary Chimera",
+		"Legendary Chimera": {
 			"name": "Legendary Chimera",
 			"description": ""
 		},
-		{
-			"id": "Leng Spider",
+		"Leng Spider": {
 			"name": "Leng Spider",
 			"description": ""
 		},
-		{
-			"id": "Leonal",
+		"Leonal": {
 			"name": "Leonal",
 			"description": ""
 		},
-		{
-			"id": "Lich",
+		"Lich": {
 			"name": "Lich",
 			"description": ""
 		},
-		{
-			"id": "Litanu",
+		"Litanu": {
 			"name": "Litanu",
 			"description": ""
 		},
-		{
-			"id": "Living Doldrums",
+		"Living Doldrums": {
 			"name": "Living Doldrums",
 			"description": ""
 		},
-		{
-			"id": "Living Sandstorm (humanoid)",
+		"Living Sandstorm (humanoid)": {
 			"name": "Living Sandstorm (humanoid)",
 			"description": ""
 		},
-		{
-			"id": "Llorona",
+		"Llorona": {
 			"name": "Llorona",
 			"description": ""
 		},
-		{
-			"id": "Lythirium",
+		"Lythirium": {
 			"name": "Lythirium",
 			"description": ""
 		},
-		{
-			"id": "Meladaemon",
+		"Meladaemon": {
 			"name": "Meladaemon",
 			"description": ""
 		},
-		{
-			"id": "Mezlan",
+		"Mezlan": {
 			"name": "Mezlan",
 			"description": ""
 		},
-		{
-			"id": "Misery Siktempora",
+		"Misery Siktempora": {
 			"name": "Misery Siktempora",
 			"description": ""
 		},
-		{
-			"id": "Monadic Deva",
+		"Monadic Deva": {
 			"name": "Monadic Deva",
 			"description": ""
 		},
-		{
-			"id": "Moon-beast",
+		"Moon-beast": {
 			"name": "Moon-beast",
 			"description": ""
 		},
-		{
-			"id": "Morrigna",
+		"Morrigna": {
 			"name": "Morrigna",
 			"description": ""
 		},
-		{
-			"id": "Mothman Elder",
+		"Mothman Elder": {
 			"name": "Mothman Elder",
 			"description": ""
 		},
-		{
-			"id": "Mountain Blight",
+		"Mountain Blight": {
 			"name": "Mountain Blight",
 			"description": ""
 		},
-		{
-			"id": "Mountain Troll",
+		"Mountain Troll": {
 			"name": "Mountain Troll",
 			"description": ""
 		},
-		{
-			"id": "Mute Hag",
+		"Mute Hag": {
 			"name": "Mute Hag",
 			"description": ""
 		},
-		{
-			"id": "Myrmidon Robot",
+		"Myrmidon Robot": {
 			"name": "Myrmidon Robot",
 			"description": ""
 		},
-		{
-			"id": "Nachzehrer",
+		"Nachzehrer": {
 			"name": "Nachzehrer",
 			"description": ""
 		},
-		{
-			"id": "Nalfeshnee",
+		"Nalfeshnee": {
 			"name": "Nalfeshnee",
 			"description": ""
 		},
-		{
-			"id": "Neshmaal",
+		"Neshmaal": {
 			"name": "Neshmaal",
 			"description": ""
 		},
-		{
-			"id": "Nightwing",
+		"Nightwing": {
 			"name": "Nightwing",
 			"description": ""
 		},
-		{
-			"id": "Nihiloi",
+		"Nihiloi": {
 			"name": "Nihiloi",
 			"description": ""
 		},
-		{
-			"id": "Nikaramsa",
+		"Nikaramsa": {
 			"name": "Nikaramsa",
 			"description": ""
 		},
-		{
-			"id": "Nimbral Child",
+		"Nimbral Child": {
 			"name": "Nimbral Child",
 			"description": ""
 		},
-		{
-			"id": "Obambo",
+		"Obambo": {
 			"name": "Obambo",
 			"description": ""
 		},
-		{
-			"id": "Ocean Giant",
+		"Ocean Giant": {
 			"name": "Ocean Giant",
 			"description": ""
 		},
-		{
-			"id": "Octopod Mechanic Drone",
+		"Octopod Mechanic Drone": {
 			"name": "Octopod Mechanic Drone",
 			"description": ""
 		},
-		{
-			"id": "Ogre Glutton",
+		"Ogre Glutton": {
 			"name": "Ogre Glutton",
 			"description": ""
 		},
-		{
-			"id": "Ogre King",
+		"Ogre King": {
 			"name": "Ogre King",
 			"description": ""
 		},
-		{
-			"id": "Oitos",
+		"Oitos": {
 			"name": "Oitos",
 			"description": ""
 		},
-		{
-			"id": "Omox",
+		"Omox": {
 			"name": "Omox",
 			"description": ""
 		},
-		{
-			"id": "Onkushu",
+		"Onkushu": {
 			"name": "Onkushu",
 			"description": ""
 		},
-		{
-			"id": "Oolioddroo",
+		"Oolioddroo": {
 			"name": "Oolioddroo",
 			"description": ""
 		},
-		{
-			"id": "Oozlosh, Marsh Giant High Priest",
+		"Oozlosh, Marsh Giant High Priest": {
 			"name": "Oozlosh, Marsh Giant High Priest",
 			"description": ""
 		},
-		{
-			"id": "Orsatka",
+		"Orsatka": {
 			"name": "Orsatka",
 			"description": ""
 		},
-		{
-			"id": "Oshageros",
+		"Oshageros": {
 			"name": "Oshageros",
 			"description": ""
 		},
-		{
-			"id": "Ossumental (fire)",
+		"Ossumental (fire)": {
 			"name": "Ossumental (fire)",
 			"description": ""
 		},
-		{
-			"id": "Ossumental (water)",
+		"Ossumental (water)": {
 			"name": "Ossumental (water)",
 			"description": ""
 		},
-		{
-			"id": "Owb Prophet",
+		"Owb Prophet": {
 			"name": "Owb Prophet",
 			"description": ""
 		},
-		{
-			"id": "Ozimat",
+		"Ozimat": {
 			"name": "Ozimat",
 			"description": ""
 		},
-		{
-			"id": "Pallid Angel",
+		"Pallid Angel": {
 			"name": "Pallid Angel",
 			"description": ""
 		},
-		{
-			"id": "Papinijuwari",
+		"Papinijuwari": {
 			"name": "Papinijuwari",
 			"description": ""
 		},
-		{
-			"id": "Peri",
+		"Peri": {
 			"name": "Peri",
 			"description": ""
 		},
-		{
-			"id": "Pharaonic Guardian",
+		"Pharaonic Guardian": {
 			"name": "Pharaonic Guardian",
 			"description": ""
 		},
-		{
-			"id": "Plague Giant",
+		"Plague Giant": {
 			"name": "Plague Giant",
 			"description": ""
 		},
-		{
-			"id": "Prana Ghost",
+		"Prana Ghost": {
 			"name": "Prana Ghost",
 			"description": ""
 		},
-		{
-			"id": "Prismatic Orrery",
+		"Prismatic Orrery": {
 			"name": "Prismatic Orrery",
 			"description": ""
 		},
-		{
-			"id": "Prophet Of Baphomet",
+		"Prophet Of Baphomet": {
 			"name": "Prophet Of Baphomet",
 			"description": ""
 		},
-		{
-			"id": "Psoglav",
+		"Psoglav": {
 			"name": "Psoglav",
 			"description": ""
 		},
-		{
-			"id": "Psychic Lich",
+		"Psychic Lich": {
 			"name": "Psychic Lich",
 			"description": ""
 		},
-		{
-			"id": "Purple Worm",
+		"Purple Worm": {
 			"name": "Purple Worm",
 			"description": ""
 		},
-		{
-			"id": "Putrid Ooze",
+		"Putrid Ooze": {
 			"name": "Putrid Ooze",
 			"description": ""
 		},
-		{
-			"id": "Quetzutrhul",
+		"Quetzutrhul": {
 			"name": "Quetzutrhul",
 			"description": ""
 		},
-		{
-			"id": "Rabisu",
+		"Rabisu": {
 			"name": "Rabisu",
 			"description": ""
 		},
-		{
-			"id": "Radiant Essence",
+		"Radiant Essence": {
 			"name": "Radiant Essence",
 			"description": ""
 		},
-		{
-			"id": "Rawhead",
+		"Rawhead": {
 			"name": "Rawhead",
 			"description": ""
 		},
-		{
-			"id": "Razormouth",
+		"Razormouth": {
 			"name": "Razormouth",
 			"description": ""
 		},
-		{
-			"id": "Reclamation Robot",
+		"Reclamation Robot": {
 			"name": "Reclamation Robot",
 			"description": ""
 		},
-		{
-			"id": "Red Reaver",
+		"Red Reaver": {
 			"name": "Red Reaver",
 			"description": ""
 		},
-		{
-			"id": "Red Rider",
+		"Red Rider": {
 			"name": "Red Rider",
 			"description": ""
 		},
-		{
-			"id": "Relictner",
+		"Relictner": {
 			"name": "Relictner",
 			"description": ""
 		},
-		{
-			"id": "Retriever",
+		"Retriever": {
 			"name": "Retriever",
 			"description": ""
 		},
-		{
-			"id": "Rokurokubi",
+		"Rokurokubi": {
 			"name": "Rokurokubi",
 			"description": ""
 		},
-		{
-			"id": "Roper",
+		"Roper": {
 			"name": "Roper",
 			"description": ""
 		},
-		{
-			"id": "Royal Naga",
+		"Royal Naga": {
 			"name": "Royal Naga",
 			"description": ""
 		},
-		{
-			"id": "Rust Devil (ferrugon)",
+		"Rust Devil (ferrugon)": {
 			"name": "Rust Devil (ferrugon)",
 			"description": ""
 		},
-		{
-			"id": "Sahuagin Prince",
+		"Sahuagin Prince": {
 			"name": "Sahuagin Prince",
 			"description": ""
 		},
-		{
-			"id": "Sapphire Jellyfish",
+		"Sapphire Jellyfish": {
 			"name": "Sapphire Jellyfish",
 			"description": ""
 		},
-		{
-			"id": "Sayona",
+		"Sayona": {
 			"name": "Sayona",
 			"description": ""
 		},
-		{
-			"id": "Scarlet Walker",
+		"Scarlet Walker": {
 			"name": "Scarlet Walker",
 			"description": ""
 		},
-		{
-			"id": "Scitalis",
+		"Scitalis": {
 			"name": "Scitalis",
 			"description": ""
 		},
-		{
-			"id": "Sea Serpent",
+		"Sea Serpent": {
 			"name": "Sea Serpent",
 			"description": ""
 		},
-		{
-			"id": "Seaweed Siren",
+		"Seaweed Siren": {
 			"name": "Seaweed Siren",
 			"description": ""
 		},
-		{
-			"id": "Sepid",
+		"Sepid": {
 			"name": "Sepid",
 			"description": ""
 		},
-		{
-			"id": "Seps",
+		"Seps": {
 			"name": "Seps",
 			"description": ""
 		},
-		{
-			"id": "Serpentfolk Bone Prophet",
+		"Serpentfolk Bone Prophet": {
 			"name": "Serpentfolk Bone Prophet",
 			"description": ""
 		},
-		{
-			"id": "Shachath",
+		"Shachath": {
 			"name": "Shachath",
 			"description": ""
 		},
-		{
-			"id": "Shadow Giant",
+		"Shadow Giant": {
 			"name": "Shadow Giant",
 			"description": ""
 		},
-		{
-			"id": "Shadow Roper",
+		"Shadow Roper": {
 			"name": "Shadow Roper",
 			"description": ""
 		},
-		{
-			"id": "Shining Child",
+		"Shining Child": {
 			"name": "Shining Child",
 			"description": ""
 		},
-		{
-			"id": "Shipmind",
+		"Shipmind": {
 			"name": "Shipmind",
 			"description": ""
 		},
-		{
-			"id": "Shipwrecker Crab",
+		"Shipwrecker Crab": {
 			"name": "Shipwrecker Crab",
 			"description": ""
 		},
-		{
-			"id": "Shira",
+		"Shira": {
 			"name": "Shira",
 			"description": ""
 		},
-		{
-			"id": "Skrimsl",
+		"Skrimsl": {
 			"name": "Skrimsl",
 			"description": ""
 		},
-		{
-			"id": "Sleipnir",
+		"Sleipnir": {
 			"name": "Sleipnir",
 			"description": ""
 		},
-		{
-			"id": "Somalcygot",
+		"Somalcygot": {
 			"name": "Somalcygot",
 			"description": ""
 		},
-		{
-			"id": "Soulbound Shell",
+		"Soulbound Shell": {
 			"name": "Soulbound Shell",
 			"description": ""
 		},
-		{
-			"id": "Spellgorger",
+		"Spellgorger": {
 			"name": "Spellgorger",
 			"description": ""
 		},
-		{
-			"id": "Spinosaurus",
+		"Spinosaurus": {
 			"name": "Spinosaurus",
 			"description": ""
 		},
-		{
-			"id": "Spitting Eurypterid",
+		"Spitting Eurypterid": {
 			"name": "Spitting Eurypterid",
 			"description": ""
 		},
-		{
-			"id": "Storm Giant",
+		"Storm Giant": {
 			"name": "Storm Giant",
 			"description": ""
 		},
-		{
-			"id": "Suijin",
+		"Suijin": {
 			"name": "Suijin",
 			"description": ""
 		},
-		{
-			"id": "Surgeon Robot",
+		"Surgeon Robot": {
 			"name": "Surgeon Robot",
 			"description": ""
 		},
-		{
-			"id": "Svathurim",
+		"Svathurim": {
 			"name": "Svathurim",
 			"description": ""
 		},
-		{
-			"id": "Syricta",
+		"Syricta": {
 			"name": "Syricta",
 			"description": ""
 		},
-		{
-			"id": "Taiga Giant",
+		"Taiga Giant": {
 			"name": "Taiga Giant",
 			"description": ""
 		},
-		{
-			"id": "Taotieh",
+		"Taotieh": {
 			"name": "Taotieh",
 			"description": ""
 		},
-		{
-			"id": "Tarry Demodand",
+		"Tarry Demodand": {
 			"name": "Tarry Demodand",
 			"description": ""
 		},
-		{
-			"id": "Temerdaemon",
+		"Temerdaemon": {
 			"name": "Temerdaemon",
 			"description": ""
 		},
-		{
-			"id": "Tetrolimulus",
+		"Tetrolimulus": {
 			"name": "Tetrolimulus",
 			"description": ""
 		},
-		{
-			"id": "Thanadaemon",
+		"Thanadaemon": {
 			"name": "Thanadaemon",
 			"description": ""
 		},
-		{
-			"id": "Thath-malal, The Eyeless Prince",
+		"Thath-malal, The Eyeless Prince": {
 			"name": "Thath-malal, The Eyeless Prince",
 			"description": ""
 		},
-		{
-			"id": "The Mistress Of The Fen",
+		"The Mistress Of The Fen": {
 			"name": "The Mistress Of The Fen",
 			"description": ""
 		},
-		{
-			"id": "Thriae Seer",
+		"Thriae Seer": {
 			"name": "Thriae Seer",
 			"description": ""
 		},
-		{
-			"id": "Thunderbird",
+		"Thunderbird": {
 			"name": "Thunderbird",
 			"description": ""
 		},
-		{
-			"id": "Titanoboa",
+		"Titanoboa": {
 			"name": "Titanoboa",
 			"description": ""
 		},
-		{
-			"id": "Tletli",
+		"Tletli": {
 			"name": "Tletli",
 			"description": ""
 		},
-		{
-			"id": "Tobongo (mwangi Treant)",
+		"Tobongo (mwangi Treant)": {
 			"name": "Tobongo (mwangi Treant)",
 			"description": ""
 		},
-		{
-			"id": "Tomb Giant",
+		"Tomb Giant": {
 			"name": "Tomb Giant",
 			"description": ""
 		},
-		{
-			"id": "Trumpet Archon",
+		"Trumpet Archon": {
 			"name": "Trumpet Archon",
 			"description": ""
 		},
-		{
-			"id": "Uchurah",
+		"Uchurah": {
 			"name": "Uchurah",
 			"description": ""
 		},
-		{
-			"id": "Umdhlebi",
+		"Umdhlebi": {
 			"name": "Umdhlebi",
 			"description": ""
 		},
-		{
-			"id": "Undrella",
+		"Undrella": {
 			"name": "Undrella",
 			"description": ""
 		},
-		{
-			"id": "Unknown",
+		"Unknown": {
 			"name": "Unknown",
 			"description": ""
 		},
-		{
-			"id": "Urburg Armbreaker, Hill Giant Chieftain",
+		"Urburg Armbreaker, Hill Giant Chieftain": {
 			"name": "Urburg Armbreaker, Hill Giant Chieftain",
 			"description": ""
 		},
-		{
-			"id": "Valkyrie",
+		"Valkyrie": {
 			"name": "Valkyrie",
 			"description": ""
 		},
-		{
-			"id": "Vault Keeper",
+		"Vault Keeper": {
 			"name": "Vault Keeper",
 			"description": ""
 		},
-		{
-			"id": "Veiled Master",
+		"Veiled Master": {
 			"name": "Veiled Master",
 			"description": ""
 		},
-		{
-			"id": "Vespergaunt",
+		"Vespergaunt": {
 			"name": "Vespergaunt",
 			"description": ""
 		},
-		{
-			"id": "Viper Vine",
+		"Viper Vine": {
 			"name": "Viper Vine",
 			"description": ""
 		},
-		{
-			"id": "Vouivre",
+		"Vouivre": {
 			"name": "Vouivre",
 			"description": ""
 		},
-		{
-			"id": "Vydrarch",
+		"Vydrarch": {
 			"name": "Vydrarch",
 			"description": ""
 		},
-		{
-			"id": "Warcat Of Rull",
+		"Warcat Of Rull": {
 			"name": "Warcat Of Rull",
 			"description": ""
 		},
-		{
-			"id": "Warmaze Disciples Troop",
+		"Warmaze Disciples Troop": {
 			"name": "Warmaze Disciples Troop",
 			"description": ""
 		},
-		{
-			"id": "White Rider",
+		"White Rider": {
 			"name": "White Rider",
 			"description": ""
 		},
-		{
-			"id": "Wickerman",
+		"Wickerman": {
 			"name": "Wickerman",
 			"description": ""
 		},
-		{
-			"id": "Wild Hunt Archer",
+		"Wild Hunt Archer": {
 			"name": "Wild Hunt Archer",
 			"description": ""
 		},
-		{
-			"id": "Wisagatcak",
+		"Wisagatcak": {
 			"name": "Wisagatcak",
 			"description": ""
 		},
-		{
-			"id": "Worm That Walks",
+		"Worm That Walks": {
 			"name": "Worm That Walks",
 			"description": ""
 		},
-		{
-			"id": "Xanthos",
+		"Xanthos": {
 			"name": "Xanthos",
 			"description": ""
 		},
-		{
-			"id": "Yah-thelgaad",
+		"Yah-thelgaad": {
 			"name": "Yah-thelgaad",
 			"description": ""
 		},
-		{
-			"id": "Yarahkut",
+		"Yarahkut": {
 			"name": "Yarahkut",
 			"description": ""
 		},
-		{
-			"id": "Young Apocalypse Dragon",
+		"Young Apocalypse Dragon": {
 			"name": "Young Apocalypse Dragon",
 			"description": ""
 		},
-		{
-			"id": "Young Bliss Dragon",
+		"Young Bliss Dragon": {
 			"name": "Young Bliss Dragon",
 			"description": ""
 		},
-		{
-			"id": "Young Crypt Dragon",
+		"Young Crypt Dragon": {
 			"name": "Young Crypt Dragon",
 			"description": ""
 		},
-		{
-			"id": "Young Gold Dragon",
+		"Young Gold Dragon": {
 			"name": "Young Gold Dragon",
 			"description": ""
 		},
-		{
-			"id": "Young Havoc Dragon",
+		"Young Havoc Dragon": {
 			"name": "Young Havoc Dragon",
 			"description": ""
 		},
-		{
-			"id": "Young Infernal Dragon",
+		"Young Infernal Dragon": {
 			"name": "Young Infernal Dragon",
 			"description": ""
 		},
-		{
-			"id": "Young Paradise Dragon",
+		"Young Paradise Dragon": {
 			"name": "Young Paradise Dragon",
 			"description": ""
 		},
-		{
-			"id": "Young Rift Dragon",
+		"Young Rift Dragon": {
 			"name": "Young Rift Dragon",
 			"description": ""
 		},
-		{
-			"id": "Young Sovereign Dragon",
+		"Young Sovereign Dragon": {
 			"name": "Young Sovereign Dragon",
 			"description": ""
 		},
-		{
-			"id": "Young Time Dragon",
+		"Young Time Dragon": {
 			"name": "Young Time Dragon",
 			"description": ""
 		},
-		{
-			"id": "Young Tumult Dragon",
+		"Young Tumult Dragon": {
 			"name": "Young Tumult Dragon",
 			"description": ""
 		},
-		{
-			"id": "Yurei",
+		"Yurei": {
 			"name": "Yurei",
 			"description": ""
 		},
-		{
-			"id": "Zalyakavat",
+		"Zalyakavat": {
 			"name": "Zalyakavat",
 			"description": ""
 		},
-		{
-			"id": "Zana",
+		"Zana": {
 			"name": "Zana",
 			"description": ""
 		},
-		{
-			"id": "Zephyr",
+		"Zephyr": {
 			"name": "Zephyr",
 			"description": ""
 		}
-	]
+	}
 }

@@ -1,32 +1,4 @@
 {
 	"label": "Sample Macros",
-	"entries": [
-		{
-			"id": "Award XP"
-		},
-		{
-			"id": "Calculate Spellbook Price"
-		},
-		{
-			"id": "Create Loot Sheets"
-		},
-		{
-			"id": "Roll Saving Throw"
-		},
-		{
-			"id": "Roll Skill"
-		},
-		{
-			"id": "Show Actor Information"
-		},
-		{
-			"id": "Show Defenses"
-		},
-		{
-			"id": "Toggle Buff"
-		},
-		{
-			"id": "Wild Shape"
-		}
-	]
+	"entries": {}
 }

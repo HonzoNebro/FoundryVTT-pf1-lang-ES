@@ -1,570 +1,457 @@
 {
 	"label": "Bestiary - CR 20+",
-	"entries": [
-		{
-			"id": "Agmazar The Star Titan",
+	"entries": {
+		"Agmazar The Star Titan": {
 			"name": "Agmazar The Star Titan",
 			"description": ""
 		},
-		{
-			"id": "Agyra",
+		"Agyra": {
 			"name": "Agyra",
 			"description": ""
 		},
-		{
-			"id": "Ahriman, Lord Of All Divs",
+		"Ahriman, Lord Of All Divs": {
 			"name": "Ahriman, Lord Of All Divs",
 			"description": ""
 		},
-		{
-			"id": "Akvan",
+		"Akvan": {
 			"name": "Akvan",
 			"description": ""
 		},
-		{
-			"id": "Ancient Apocalypse Dragon",
+		"Ancient Apocalypse Dragon": {
 			"name": "Ancient Apocalypse Dragon",
 			"description": ""
 		},
-		{
-			"id": "Ancient Bliss Dragon",
+		"Ancient Bliss Dragon": {
 			"name": "Ancient Bliss Dragon",
 			"description": ""
 		},
-		{
-			"id": "Ancient Crypt Dragon",
+		"Ancient Crypt Dragon": {
 			"name": "Ancient Crypt Dragon",
 			"description": ""
 		},
-		{
-			"id": "Ancient Gold Dragon",
+		"Ancient Gold Dragon": {
 			"name": "Ancient Gold Dragon",
 			"description": ""
 		},
-		{
-			"id": "Ancient Havoc Dragon",
+		"Ancient Havoc Dragon": {
 			"name": "Ancient Havoc Dragon",
 			"description": ""
 		},
-		{
-			"id": "Ancient Infernal Dragon",
+		"Ancient Infernal Dragon": {
 			"name": "Ancient Infernal Dragon",
 			"description": ""
 		},
-		{
-			"id": "Ancient Sovereign Dragon",
+		"Ancient Sovereign Dragon": {
 			"name": "Ancient Sovereign Dragon",
 			"description": ""
 		},
-		{
-			"id": "Ancient Time Dragon",
+		"Ancient Time Dragon": {
 			"name": "Ancient Time Dragon",
 			"description": ""
 		},
-		{
-			"id": "Ancient Tumult Dragon",
+		"Ancient Tumult Dragon": {
 			"name": "Ancient Tumult Dragon",
 			"description": ""
 		},
-		{
-			"id": "Apollyon",
+		"Apollyon": {
 			"name": "Apollyon",
 			"description": ""
 		},
-		{
-			"id": "Arshea",
+		"Arshea": {
 			"name": "Arshea",
 			"description": ""
 		},
-		{
-			"id": "Ashava",
+		"Ashava": {
 			"name": "Ashava",
 			"description": ""
 		},
-		{
-			"id": "Asurendra",
+		"Asurendra": {
 			"name": "Asurendra",
 			"description": ""
 		},
-		{
-			"id": "Ayandamahla, The Crimson Lotus",
+		"Ayandamahla, The Crimson Lotus": {
 			"name": "Ayandamahla, The Crimson Lotus",
 			"description": ""
 		},
-		{
-			"id": "Baalzebul",
+		"Baalzebul": {
 			"name": "Baalzebul",
 			"description": ""
 		},
-		{
-			"id": "Balor",
+		"Balor": {
 			"name": "Balor",
 			"description": ""
 		},
-		{
-			"id": "Baphomet",
+		"Baphomet": {
 			"name": "Baphomet",
 			"description": ""
 		},
-		{
-			"id": "Barzahk",
+		"Barzahk": {
 			"name": "Barzahk",
 			"description": ""
 		},
-		{
-			"id": "Bastion Archon",
+		"Bastion Archon": {
 			"name": "Bastion Archon",
 			"description": ""
 		},
-		{
-			"id": "Bezravnis",
+		"Bezravnis": {
 			"name": "Bezravnis",
 			"description": ""
 		},
-		{
-			"id": "Black Butterfly",
+		"Black Butterfly": {
 			"name": "Black Butterfly",
 			"description": ""
 		},
-		{
-			"id": "Blood Queen",
+		"Blood Queen": {
 			"name": "Blood Queen",
 			"description": ""
 		},
-		{
-			"id": "Bokrug",
+		"Bokrug": {
 			"name": "Bokrug",
 			"description": ""
 		},
-		{
-			"id": "Braismois",
+		"Braismois": {
 			"name": "Braismois",
 			"description": ""
 		},
-		{
-			"id": "Cernunnos",
+		"Cernunnos": {
 			"name": "Cernunnos",
 			"description": ""
 		},
-		{
-			"id": "Charnel God",
+		"Charnel God": {
 			"name": "Charnel God",
 			"description": ""
 		},
-		{
-			"id": "Chavazvug",
+		"Chavazvug": {
 			"name": "Chavazvug",
 			"description": ""
 		},
-		{
-			"id": "Cipactli",
+		"Cipactli": {
 			"name": "Cipactli",
 			"description": ""
 		},
-		{
-			"id": "Conqueror Worm",
+		"Conqueror Worm": {
 			"name": "Conqueror Worm",
 			"description": ""
 		},
-		{
-			"id": "Cthulhu",
+		"Cthulhu": {
 			"name": "Cthulhu",
 			"description": ""
 		},
-		{
-			"id": "Deskari",
+		"Deskari": {
 			"name": "Deskari",
 			"description": ""
 		},
-		{
-			"id": "Dispater",
+		"Dispater": {
 			"name": "Dispater",
 			"description": ""
 		},
-		{
-			"id": "Elder Wyrm",
+		"Elder Wyrm": {
 			"name": "Elder Wyrm",
 			"description": ""
 		},
-		{
-			"id": "Elysian",
+		"Elysian": {
 			"name": "Elysian",
 			"description": ""
 		},
-		{
-			"id": "Eremite",
+		"Eremite": {
 			"name": "Eremite",
 			"description": ""
 		},
-		{
-			"id": "Euryale",
+		"Euryale": {
 			"name": "Euryale",
 			"description": ""
 		},
-		{
-			"id": "Fafnheir",
+		"Fafnheir": {
 			"name": "Fafnheir",
 			"description": ""
 		},
-		{
-			"id": "Festering Ulunat (the Unholy First)",
+		"Festering Ulunat (the Unholy First)": {
 			"name": "Festering Ulunat (the Unholy First)",
 			"description": ""
 		},
-		{
-			"id": "Fire Giant King",
+		"Fire Giant King": {
 			"name": "Fire Giant King",
 			"description": ""
 		},
-		{
-			"id": "Galundari, The Scourge Of Heaven",
+		"Galundari, The Scourge Of Heaven": {
 			"name": "Galundari, The Scourge Of Heaven",
 			"description": ""
 		},
-		{
-			"id": "Geryon",
+		"Geryon": {
 			"name": "Geryon",
 			"description": ""
 		},
-		{
-			"id": "Ghatanothoa",
+		"Ghatanothoa": {
 			"name": "Ghatanothoa",
 			"description": ""
 		},
-		{
-			"id": "Grim Reaper",
+		"Grim Reaper": {
 			"name": "Grim Reaper",
 			"description": ""
 		},
-		{
-			"id": "Hastur",
+		"Hastur": {
 			"name": "Hastur",
 			"description": ""
 		},
-		{
-			"id": "Hekatonkheires",
+		"Hekatonkheires": {
 			"name": "Hekatonkheires",
 			"description": ""
 		},
-		{
-			"id": "Hell Engine Adamantine Golem",
+		"Hell Engine Adamantine Golem": {
 			"name": "Hell Engine Adamantine Golem",
 			"description": ""
 		},
-		{
-			"id": "Hundun",
+		"Hundun": {
 			"name": "Hundun",
 			"description": ""
 		},
-		{
-			"id": "Iathavos",
+		"Iathavos": {
 			"name": "Iathavos",
 			"description": ""
 		},
-		{
-			"id": "Inkariax",
+		"Inkariax": {
 			"name": "Inkariax",
 			"description": ""
 		},
-		{
-			"id": "Ithaqua",
+		"Ithaqua": {
 			"name": "Ithaqua",
 			"description": ""
 		},
-		{
-			"id": "Izfiitar",
+		"Izfiitar": {
 			"name": "Izfiitar",
 			"description": ""
 		},
-		{
-			"id": "Jabberwock",
+		"Jabberwock": {
 			"name": "Jabberwock",
 			"description": ""
 		},
-		{
-			"id": "Jinushigami",
+		"Jinushigami": {
 			"name": "Jinushigami",
 			"description": ""
 		},
-		{
-			"id": "Kimenhul",
+		"Kimenhul": {
 			"name": "Kimenhul",
 			"description": ""
 		},
-		{
-			"id": "Korada",
+		"Korada": {
 			"name": "Korada",
 			"description": ""
 		},
-		{
-			"id": "Kostchtchie",
+		"Kostchtchie": {
 			"name": "Kostchtchie",
 			"description": ""
 		},
-		{
-			"id": "Leviathan",
+		"Leviathan": {
 			"name": "Leviathan",
 			"description": ""
 		},
-		{
-			"id": "Lhaksharut",
+		"Lhaksharut": {
 			"name": "Lhaksharut",
 			"description": ""
 		},
-		{
-			"id": "Malziarax, Rune Giant Overlord",
+		"Malziarax, Rune Giant Overlord": {
 			"name": "Malziarax, Rune Giant Overlord",
 			"description": ""
 		},
-		{
-			"id": "Mammon",
+		"Mammon": {
 			"name": "Mammon",
 			"description": ""
 		},
-		{
-			"id": "Master Automaton",
+		"Master Automaton": {
 			"name": "Master Automaton",
 			"description": ""
 		},
-		{
-			"id": "Mhar",
+		"Mhar": {
 			"name": "Mhar",
 			"description": ""
 		},
-		{
-			"id": "Moloch",
+		"Moloch": {
 			"name": "Moloch",
 			"description": ""
 		},
-		{
-			"id": "Moxix",
+		"Moxix": {
 			"name": "Moxix",
 			"description": ""
 		},
-		{
-			"id": "Mu Spore",
+		"Mu Spore": {
 			"name": "Mu Spore",
 			"description": ""
 		},
-		{
-			"id": "Nocticula",
+		"Nocticula": {
 			"name": "Nocticula",
 			"description": ""
 		},
-		{
-			"id": "Oblivion",
+		"Oblivion": {
 			"name": "Oblivion",
 			"description": ""
 		},
-		{
-			"id": "Olethrodaemon",
+		"Olethrodaemon": {
 			"name": "Olethrodaemon",
 			"description": ""
 		},
-		{
-			"id": "Oliphaunt Of Jandelay",
+		"Oliphaunt Of Jandelay": {
 			"name": "Oliphaunt Of Jandelay",
 			"description": ""
 		},
-		{
-			"id": "Ouroboros",
+		"Ouroboros": {
 			"name": "Ouroboros",
 			"description": ""
 		},
-		{
-			"id": "Pit Fiend",
+		"Pit Fiend": {
 			"name": "Pit Fiend",
 			"description": ""
 		},
-		{
-			"id": "Pleroma",
+		"Pleroma": {
 			"name": "Pleroma",
 			"description": ""
 		},
-		{
-			"id": "Qaur-ooung",
+		"Qaur-ooung": {
 			"name": "Qaur-ooung",
 			"description": ""
 		},
-		{
-			"id": "Qwoshokk",
+		"Qwoshokk": {
 			"name": "Qwoshokk",
 			"description": ""
 		},
-		{
-			"id": "Rakshasa Maharaja",
+		"Rakshasa Maharaja": {
 			"name": "Rakshasa Maharaja",
 			"description": ""
 		},
-		{
-			"id": "Red Wyrm Ravener",
+		"Red Wyrm Ravener": {
 			"name": "Red Wyrm Ravener",
 			"description": ""
 		},
-		{
-			"id": "Rhan-tegoth",
+		"Rhan-tegoth": {
 			"name": "Rhan-tegoth",
 			"description": ""
 		},
-		{
-			"id": "Scyld Hranni, Storm Giant Matriarch",
+		"Scyld Hranni, Storm Giant Matriarch": {
 			"name": "Scyld Hranni, Storm Giant Matriarch",
 			"description": ""
 		},
-		{
-			"id": "Shax",
+		"Shax": {
 			"name": "Shax",
 			"description": ""
 		},
-		{
-			"id": "Sifkesh",
+		"Sifkesh": {
 			"name": "Sifkesh",
 			"description": ""
 		},
-		{
-			"id": "Sirrush",
+		"Sirrush": {
 			"name": "Sirrush",
 			"description": ""
 		},
-		{
-			"id": "Squamous Demodand",
+		"Squamous Demodand": {
 			"name": "Squamous Demodand",
 			"description": ""
 		},
-		{
-			"id": "Star-spawn Of Cthulhu",
+		"Star-spawn Of Cthulhu": {
 			"name": "Star-spawn Of Cthulhu",
 			"description": ""
 		},
-		{
-			"id": "Szuriel",
+		"Szuriel": {
 			"name": "Szuriel",
 			"description": ""
 		},
-		{
-			"id": "Talmandor",
+		"Talmandor": {
 			"name": "Talmandor",
 			"description": ""
 		},
-		{
-			"id": "Tarn Linnorm",
+		"Tarn Linnorm": {
 			"name": "Tarn Linnorm",
 			"description": ""
 		},
-		{
-			"id": "Tarrasque",
+		"Tarrasque": {
 			"name": "Tarrasque",
 			"description": ""
 		},
-		{
-			"id": "Tawil At'umr",
+		"Tawil At'umr": {
 			"name": "Tawil At'umr",
 			"description": ""
 		},
-		{
-			"id": "Tempest Behemoth",
+		"Tempest Behemoth": {
 			"name": "Tempest Behemoth",
 			"description": ""
 		},
-		{
-			"id": "Thalassic Behemoth",
+		"Thalassic Behemoth": {
 			"name": "Thalassic Behemoth",
 			"description": ""
 		},
-		{
-			"id": "Thanatotic",
+		"Thanatotic": {
 			"name": "Thanatotic",
 			"description": ""
 		},
-		{
-			"id": "Thuskchoon",
+		"Thuskchoon": {
 			"name": "Thuskchoon",
 			"description": ""
 		},
-		{
-			"id": "Tor Linnorm",
+		"Tor Linnorm": {
 			"name": "Tor Linnorm",
 			"description": ""
 		},
-		{
-			"id": "Trelmarixian",
+		"Trelmarixian": {
 			"name": "Trelmarixian",
 			"description": ""
 		},
-		{
-			"id": "Tsathoggua",
+		"Tsathoggua": {
 			"name": "Tsathoggua",
 			"description": ""
 		},
-		{
-			"id": "Tychilarius",
+		"Tychilarius": {
 			"name": "Tychilarius",
 			"description": ""
 		},
-		{
-			"id": "Urtleytlar, The Tempest Queen",
+		"Urtleytlar, The Tempest Queen": {
 			"name": "Urtleytlar, The Tempest Queen",
 			"description": ""
 		},
-		{
-			"id": "Uvaglor, The Misbegotten Prince",
+		"Uvaglor, The Misbegotten Prince": {
 			"name": "Uvaglor, The Misbegotten Prince",
 			"description": ""
 		},
-		{
-			"id": "Varklops",
+		"Varklops": {
 			"name": "Varklops",
 			"description": ""
 		},
-		{
-			"id": "Vildeis",
+		"Vildeis": {
 			"name": "Vildeis",
 			"description": ""
 		},
-		{
-			"id": "Vorgozen",
+		"Vorgozen": {
 			"name": "Vorgozen",
 			"description": ""
 		},
-		{
-			"id": "Watcher",
+		"Watcher": {
 			"name": "Watcher",
 			"description": ""
 		},
-		{
-			"id": "Whisperer",
+		"Whisperer": {
 			"name": "Whisperer",
 			"description": ""
 		},
-		{
-			"id": "Wrackworm",
+		"Wrackworm": {
 			"name": "Wrackworm",
 			"description": ""
 		},
-		{
-			"id": "Xhamen-dor",
+		"Xhamen-dor": {
 			"name": "Xhamen-dor",
 			"description": ""
 		},
-		{
-			"id": "Xoveron",
+		"Xoveron": {
 			"name": "Xoveron",
 			"description": ""
 		},
-		{
-			"id": "Yamaraj",
+		"Yamaraj": {
 			"name": "Yamaraj",
 			"description": ""
 		},
-		{
-			"id": "Yarthoon",
+		"Yarthoon": {
 			"name": "Yarthoon",
 			"description": ""
 		},
-		{
-			"id": "Zelishkar Of The Bitter Flame",
+		"Zelishkar Of The Bitter Flame": {
 			"name": "Zelishkar Of The Bitter Flame",
 			"description": ""
 		}
-	]
+	}
 }

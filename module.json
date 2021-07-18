@@ -1,0 +1,23 @@
+{
+  "name": "pf1-babele-es",
+  "title": "Translation: Spanish Babele [PF1 & Compendiums]",
+  "description": "Traducción al español del sistema y los compendios de PF1 para Foundry VTT.",
+  "version": "0.1",
+  "minimumCoreVersion" : "0.8.8",
+  "compatibleCoreVersion": "0.8.8",
+  "author": "Babele: Simone / Compendiums: Honzo",
+  "systems": ["pf1"],
+  "esmodules": [],
+  "scripts": ["babele-register.js"],
+  "styles": [],
+  "packs": [],
+  "languages": [{
+  	"lang": "es",
+    "name": "Spanish",
+    "path": "es.json"
+  }],
+  "url": "https://github.com/HonzoNebro/dnd5e-es-compendium",
+  "manifest": "https://raw.githubusercontent.com/HonzoNebro/FoundryVTT-pf1-lang-ES/master/module.json",
+  "download": "https://github.com/HonzoNebro/FoundryVTT-pf1-lang-ES/archive/master.zip"
+}
+ 

@@ -16,7 +16,7 @@
     "name": "Spanish",
     "path": "es.json"
   }],
-  "url": "https://github.com/HonzoNebro/dnd5e-es-compendium",
+  "url": "https://github.com/HonzoNebro/FoundryVTT-pf1-lang-ES",
   "manifest": "https://raw.githubusercontent.com/HonzoNebro/FoundryVTT-pf1-lang-ES/master/module.json",
   "download": "https://github.com/HonzoNebro/FoundryVTT-pf1-lang-ES/archive/master.zip"
 }
